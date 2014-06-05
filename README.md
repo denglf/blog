@@ -1,4 +1,4 @@
-blog
+denglf's blog
 ====
 
-My blog
+See [denglf's blog](http://denglf.com)
