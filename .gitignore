@@ -4,3 +4,4 @@ db.json
 public
 nohup.out
 .deploy
+debug.log
